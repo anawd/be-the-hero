@@ -4,6 +4,8 @@
   🚀 Semana OmniStack 11.0 - Rockeseat
 </h4>
 
+<img src="https://github.com/anawd/be-the-hero/blob/master/tela-mobie-front.jpg" />
+
 ## :rocket: Tecnologias
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
